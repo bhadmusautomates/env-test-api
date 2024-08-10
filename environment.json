@@ -1,0 +1,18 @@
+{
+  "environment": {
+    "id": "3fb5885c-3e3e-479d-aad5-0d1db0931766",
+    "name": "dummy-api",
+    "owner": "4496516",
+    "createdAt": "2024-03-26T14:14:16.000Z",
+    "updatedAt": "2024-03-26T14:19:54.000Z",
+    "values": [
+      {
+        "key": "base_url",
+        "value": "https://dummy.restapiexample.com",
+        "enabled": true,
+        "type": "default"
+      }
+    ],
+    "isPublic": false
+  }
+}
